@@ -1,5 +1,7 @@
 # React Navigation Shared Element <!-- omit in toc -->
 
+## FORK FIXED import from "react-navigation-stack" to "@react-navigation/stack"
+
 React Navigation bindings for [react-native-shared-element](https://github.com/IjzerenHein/react-native-shared-element) 💫
 
 ## Compatibility <!-- omit in toc -->
